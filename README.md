@@ -8,7 +8,7 @@ Este proyecto genera excusas, una tarea del Bootcamp de 4Geeks Academy del Módu
 
 ## 🚀 Demo
 
-🔗 [Pronto demo disponible en Vercel](https://generador-de-excusas.vercel.app/) <!-- Puedes reemplazar esto por el link real en Vercel o GitHub Pages -->
+🔗 [Previsualizar la página!!!](https://generador-de-excusas.vercel.app/) <!-- Puedes reemplazar esto por el link real en Vercel o GitHub Pages -->
 
 ---
 
